@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 // }
 
 @RestController
-public class CommentStoreApp {
+public class HelloMessage {
 
     @RequestMapping("/") 
     public String hello() {
